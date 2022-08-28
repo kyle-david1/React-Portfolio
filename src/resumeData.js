@@ -2,8 +2,8 @@ let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Kyle Baca",
     "role": "Software Engineer",
-    "linkedinId":"Your LinkedIn Id",
-    "roleDescription": " Well versed in front end and backend web development. I am more drawn towards back end devlopment as I find it more straightforward and less ambiguous. I enjoy building react apps and using using querying languages like Mongoose, Sequelize, and GraphQL. When not practicing coding concepts, I prioritze swimming, running, weightlifting, and playing with my dog.",
+    "linkedinId":" www.linkedin.com/in/kyle-baca",
+    "roleDescription": " Well versed in front end and backend web development. I am more drawn towards back end devlopment as I find it more straightforward and less ambiguous. I enjoy building react apps and using using querying languages like Mongoose, Sequelize, and GraphQL. When not practicing coding concepts, I prioritize swimming, running, weightlifting, and spending quality time with my canine companion.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -72,7 +72,7 @@ let resumeData = {
       {
         "name":"project1",
         "description":"webapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":"React-Portfolio/public/images/Herble.png"
       },
       {
         "name":"project2",
