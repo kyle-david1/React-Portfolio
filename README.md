@@ -1,16 +1,25 @@
-[![HitCount](http://hits.dwyl.io/rbhatia46/React-Portfolio.svg)](http://hits.dwyl.io/rbhatia46/React-Portfolio)
-![Star this repository](https://img.shields.io/github/stars/rbhatia46/React-Portfolio?style=social)
+# React Portfolio
 
+## Description
+  Uses React Library for layout. Each piece of the portfolio is a different component.
 
-A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
+## Installation
+  1. run npm install 
+  2. run npm start 
+  3. view in browser
 
-## Preview
-![Preview](https://image.ibb.co/e5uBf0/Capture.png)
+## Credits
+  Created with a template from https://github.com/rbhatia46
 
-## How to use
-1. Clone/Download the repo.
-2. Run  ``` npm install ```.
-3. Change the values in ```src/resumeData.js``` to suit your use-case.
-4. Run ```npm start``` to spin the up the local dev server port 3000.(http://localhost:3000).
-5. Make required changes in ```src/resumeData.js``` to suit your needs.
+## License 
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Tests
+  No tests written
+
+## Questions 
+  Github: [https://github.com/kyle-david1](https://github.com/)\n
+  Email: kdbaca5892@gmail.com
+
+## Demonstration 
+https://user-images.githubusercontent.com/103971670/187594011-192d02ce-b71e-4ff8-8bad-86d133bf70f4.png

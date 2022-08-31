@@ -21,7 +21,7 @@ let resumeData = {
         //   "className":"fa fa-twitter"
         // }
       ],
-    "aboutme":"Recently achieved a certificate for full stack web developement from the University of Texas at Austin. I am excited to bring the range of coding skills I learned in this setting to my first role as a developer. Some of these Languages and technologies include HTML, CSS, Javascript, OOP, Handlebars and React, Express, Node, Sequelize, Mongoose and GraphQL, to name a few. I live by the principle of being a life long student.",
+    "aboutme":"Recently achieved a certificate for full stack web developement from the University of Texas at Austin. I am excited to bring the range of coding skills I honed in this setting to my first role as a developer. Some of these Languages and technologies include HTML, CSS, Javascript, OOP, Handlebars and React, Express, Node, Sequelize, Mongoose and GraphQL, to name a few. I live by the principle of being a life long student.",
     "address":"Austin, Texas",
     "email":"kyle.baca8@gmail.com",
     "education":[
@@ -56,7 +56,7 @@ let resumeData = {
         // "Achievements":"Some Achievements"
       }
     ],
-    "skillsDescription":"Your skills here",
+    // "skillsDescription":"Your skills here",
     "skills":[
       {
         "skillname":"Javascript"
@@ -65,30 +65,35 @@ let resumeData = {
         "skillname":"Express"
       },
       {
-        "skillname":"React.js"
+        "skillname":"MongoDB, SQL"
+      },
+      {
+        "skillname":"Mongoose, Sequelize, GraphQL"
+      },
+      {
+        "skillname":"Node.js"
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
+        "name":"Git Me There",
         "description":"webapp",
-        "imgurl":"React-Portfolio/public/images/Herble.png"
+        "imgurl":"https://user-images.githubusercontent.com/103971670/187592752-4aed5f25-c1d1-4290-9783-670c1f873080.jpg"
+      },{
+        "name":"Herble",
+        "description":"webapp",
+        "imgurl":"https://user-images.githubusercontent.com/103971670/187571868-dcea8dd2-02cd-4a96-abb5-8d3d3b83d560.jpg"
       },
-      {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
-      },
-      {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
-      },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      }
+      // {
+      //   "name":"project3",
+      //   "description":"mobileapp",  
+      //   "imgurl":"images/portfolio/project2.png"
+      // },
+      // {
+      //   "name":"project4",
+      //   "description":"mobileapp",
+      //   "imgurl":"images/portfolio/phone.jpg"
+      // }
     ],
     "testimonials":[
       {
